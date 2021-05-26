@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I have been using React-hook-form / React-notifications-component and React-redux
+
+For now you can only add and delete friends but the option to modify a friend will come soon.
 
 ## Available Scripts
 
