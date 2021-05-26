@@ -1,0 +1,16 @@
+#friendsView{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+img.card-img-top {
+    width: 18rem;
+    height: 250px;
+    object-fit: cover;
+}
+
+img#friends_img {
+    width: 60%;
+}
